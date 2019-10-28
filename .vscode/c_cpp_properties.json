@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [
+                "/home/luis/libtorch/include",
+                "/home/luis/libtorch/lib",
+                "/home/luis/libtorch/include/torch/csrc/api/include",
+			    "opt/intel"
+            ]
+        }
+    ],
+    "version": 4
+}
